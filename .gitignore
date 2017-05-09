@@ -4,3 +4,4 @@ yarn.lock
 .editorconfig
 lib/
 samples/
+.idea/
