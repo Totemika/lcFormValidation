@@ -105,9 +105,9 @@ a > code {
   .main-menu.affix > .nav {
     margin-top: 25px;
   }
-  .main-menu .nav li:not(.active) a + .nav {
-    display: none;
-  }
+  /*.main-menu .nav li:not(.active) a + .nav {*/
+    /*display: none;*/
+  /*}*/
   .main-menu ul.nav li a {
     color: #333;
     padding: 10px 15px;
